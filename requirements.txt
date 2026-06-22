@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pyTelegramBotAPI
+google-genai
+duckduckgo-search
+playwright
+httpx
+python-multipart
